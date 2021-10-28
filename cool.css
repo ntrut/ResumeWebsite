@@ -1,0 +1,330 @@
+#Contentbody{
+    background-color: rgb(235, 235, 235);
+    width: 100%;
+    height: 100%;
+    margin-top: 7%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#landingbody{
+    background-color: rgb(235, 235, 235);
+    margin-top: 7%;
+}
+
+
+#landingwrapper{
+    background-color: rgb(235, 235, 235);
+    width: 100%;
+    height: 600px;
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#Contactbody{
+    background-color: rgb(235, 235, 235);
+    width: 100%;
+    height: 100%;
+    margin-top: 7%;
+    display: flex;
+}
+
+#vertical{
+    writing-mode: vertical-lr; 
+    transform: rotate(180deg);
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 100px;
+    color:darkgray;
+}
+
+.wrapper{
+    width: 1000px;
+    height: 1000px;
+    background: rgb(235, 235, 235);
+    padding: 10px;
+    margin-left: 2%;
+}
+
+.navbar{
+    background-color: black;
+    width: 99vw;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    height:min-content;
+}
+
+h1{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.navbar a{
+    float:left;
+  color: white;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+.navbar a:hover{
+    background-color: white;
+    color: black;
+}
+
+.aboutme{
+    background: white;
+    border-style: double;
+    float: left;
+    width: 400px;
+    height: 530px;
+}
+
+.aboutme img{
+    width: 225px;
+    height: 300px;
+    margin-left: 22%;
+}
+
+.relevantcoursework{
+    background: white;
+    border-style: double;
+    float: right;
+    width: 550px;
+    height: 190px;
+    margin-bottom: 15px;
+}
+
+.education{
+    background: white;
+    border-style: double;
+    float: right;
+    width: 550px;
+    height: 127px;
+    
+}
+
+.skills{
+    background: white;
+    border-style: double;
+    float: right;
+    width: 550px;
+    height: 170px;
+    margin-bottom: 15px;
+}
+
+.experience{
+    background: white;
+    border-style: double;
+    float: left;
+    width: 995px;
+    height: 450px;
+    margin-top: 15px;
+}
+
+.other{
+    background: white;
+    border-style: double;
+    float: left;
+    width: 1000px;
+    height: 125px;
+    margin-top: 15px;
+}
+
+.leftother{
+    background: white;
+    width: 500px;
+    height: 85px;
+    float:left;
+    position: relative;
+    bottom: 10px;
+}
+.rightother{
+    background: white;
+    width: 500px;
+    height: 85px;
+    float:right;
+    position: relative;
+    bottom: 10px;
+}
+
+table{
+    width: 100%;
+    margin-top: 5%;
+}
+
+#text{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+#courseworktext{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 14px;
+    margin-left: 2%;
+    margin-right: 10%;
+    display: inline;
+    position: relative;
+    left: 5px;
+}
+
+#educationtable{
+    width: 100%;
+    margin-top: 5%;
+    position: relative;
+    top: -30px;
+    left: 2px;
+    text-align: left;
+}
+
+#skillstable{
+    width: 100%;
+    margin-top: 5%;
+    position: relative;
+    top: -40px;
+    left: 2px;
+    text-align: left;
+}
+
+#skillstext{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 14px;
+    margin-left: 2%;
+    position: relative;
+}
+
+#unorderedlist{
+    position: relative;
+    top: -15px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+#unorderedlisttext{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size: 14px;
+    margin-left: 2%;
+    position: relative;
+}
+
+#certtext{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 12px;
+    position: relative;
+    top: -15px;
+    margin-left: 2%;
+}
+
+#info{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Contactbody{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#contacttext{
+    font-size: 18px;
+}
+
+#leftcontact{
+    width: 40%;
+    text-align: left;
+    padding-left: 15%;
+}
+
+#rightcontact{
+    width: 50%;
+    padding-right: 10%;
+}
+
+#rightcontact img{
+    width: 80%;
+    height: 80%;
+    padding-top: 15%;
+}
+
+#landingone{
+    background-color: rgb(235, 235, 235);
+    height: 100%;
+    width: 30%;
+    border-style: double;
+}
+
+#landingtwo{
+    background-color: rgb(235, 235, 235);
+    height: 100%;
+    width: 30%;
+    border-style: double;
+}
+
+#landingthree{
+    background-color: rgb(235, 235, 235);
+    height: 100%;
+    width: 30%;
+    border-style: double;
+}
+
+#getquote{
+    background-color: aquamarine;
+    border-radius: 25px;
+    padding: 1rem;
+    height: 17%;
+    width: 50%;
+    box-shadow: 0 4px rgba(0,0,00.2);
+    margin-left: 25%;
+    font-size: 22px;
+}
+
+#divheaders{
+    font-size: 32px;
+}
+
+#welcometext{
+    font-size: 40px;
+    color:green;
+    font-size: 4rem;
+    margin-top: -5px;
+}
+
+#nametext{
+    margin-top: 5%;
+    font-size: 100px;
+    color:darkgray;
+}
+
+#pic{
+    width: 80%;
+    height: 350px;
+    margin-left: 8%;
+}
+
+#quote{
+    text-indent: -10px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+#inspirationalquote{
+    text-indent: -10px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
